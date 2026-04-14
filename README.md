@@ -28,3 +28,25 @@ The goal of this project is to provide a **simple yet powerful productivity tool
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/GoalTrail-Progress-Tracker.git
+Navigate to the project folder
+
+cd GoalTrail-Progress-Tracker
+
+Install dependencies
+
+npm install
+
+Run the application
+
+npm start
+
+uture Enhancements
+Backend integration for data persistence
+Cloud sync and user accounts
+Email/SMS reminders
+Mobile app version
+👨‍💻 Author
+
+Developed by Anshika Singh
+
+
